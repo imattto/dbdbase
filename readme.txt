@@ -1,5 +1,5 @@
 DOWNLOAD WAY:
-1. Exporte zip folder on Disk or anywhere you what
+1. Export zip folder on Disk or anywhere you what
 2. Click on the setup.exe
 3. Wait end of download
 4. Move "icon.ico" to "dist" folder
